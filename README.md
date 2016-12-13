@@ -343,6 +343,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
+  - [PlanningWith.Cards](https://planningwith.cards/#how) Agile dashboard to run efficient sprint plannings in Hangouts or Hipchat. Import & Export your stories. 
 
 #### Project Management
   - [Asana](https://asana.com/) - Project management good for distributed teams
